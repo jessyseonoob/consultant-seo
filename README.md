@@ -13,8 +13,8 @@ Based on the awesome [eleventy-base-blog](https://github.com/11ty/eleventy-base-
 
 ## Demo wordpress
 - [lune space] (https://lune.space/)
-- [e-commerce Marseille] (https://ecommerces-marseille.com)
-- [consultant SEO] (https://love-moi.fr)
+- [ecommerce marseille](https://ecommerce-marseille.com)
+- [Consultant SEO](https://love-moi.fr)
 
 ## Getting Started
 
