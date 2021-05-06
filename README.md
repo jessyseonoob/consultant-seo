@@ -10,6 +10,9 @@ Based on the awesome [eleventy-base-blog](https://github.com/11ty/eleventy-base-
 
 - [Netlify Demo](https://eleventy-high-performance-blog-sample.industrialempathy.com/)
 - [Original site this template was based on](https://www.industrialempathy.com/)
+- [lune space] (https://lune.space/)
+- [e-commerce Marseille] (https://ecommerces-marseille.com)
+- [consultant SEO] (https://love-moi.fr)
 
 ## Getting Started
 
